@@ -269,7 +269,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c338881dec4847d40ad72c5b2882c514, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _age: 0
+  _age: 54
+  _sex: Male
+  _location: Lauderhill
 --- !u!1 &410087039
 GameObject:
   m_ObjectHideFlags: 0
